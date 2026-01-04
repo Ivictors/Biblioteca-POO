@@ -77,7 +77,7 @@ O sistema não "quebra" diante de entradas inválidas. Foram criadas exceções 
 
 A lógica foi validada através de uma suíte de testes com **JUnit 5**, cobrindo:
 * **Cenários de Sucesso**: Empréstimos e devoluções válidas.
-* **Cenários de Erro (Edge Cases)**: Tentativa de empréstimo de livros com estoque zero, remoção de usuários inexistentes e validação de IDs aleatórios.
+* **Cenários de Erro**: Tentativa de empréstimo de livros com estoque zero, remoção de usuários inexistentes e validação de IDs aleatórios.
 
 ---
 
