@@ -28,7 +28,7 @@ A aplicação gerencia o fluxo completo de uma biblioteca, incluindo:
 
 ### **Organização**
 O projeto está dividido em pacotes para melhor organização:
-- `Model`: Contém as classes principais (`Biblioteca`, `Livro`, `Usuario`).
+- `model`: Contém as classes principais (`Biblioteca`, `Livro`, `Usuario`).
 - `Service`: Centraliza as exceções personalizadas (`LivroException`, `UsuarioException`, etc).
 - `Test`: Contém testes unitarios (`BibliotecaTest.java`, `LivroTest.java`, `UsuarioTest.java`)
 

@@ -1,6 +1,5 @@
-package Model;
+package model;
 
-import service.LivroException;
 import service.UsuarioException;
 
 import java.security.SecureRandom;
